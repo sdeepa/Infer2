@@ -63,4 +63,4 @@ All they ever have to focus on is writing the HTML, CSS, and Javascript that eve
 
 ## Why are dist and tmp not being pushed to the repo?
 
-In regular production applications, `dist` and `tmp` are **never** pushed to the main repo, because they are usually large in size and don't provide development benefit to anyone reading them (minified, optimized, compressed code). Also, it gives no benefit to another developer, since using the simple `grunt` command will give you all these things anyway from the dev version of hte code. 
+In regular production applications, `dist` and `tmp` are **never** pushed to the main repo, because they are usually large in size and don't provide development benefit to anyone reading them (minified, optimized, compressed code). Also, it gives no benefit to another developer, since using the simple `grunt` command will give you all these things anyway from the dev version of hte code. # Infer 2
